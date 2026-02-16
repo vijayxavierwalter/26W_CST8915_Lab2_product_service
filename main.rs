@@ -1,4 +1,3 @@
-
 use dotenv::dotenv; // Import dotenv to load environment variables from .env in local development.
 use std::env; // Import the environment module to access environment variables.
 use warp::Filter; // Import the warp web framework and the Filter trait for handling HTTP requests. // Import dotenv to load environment variables from .env in local development.
